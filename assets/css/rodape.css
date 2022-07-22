@@ -1,0 +1,7 @@
+.rodape{
+    background: azure;
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+}
